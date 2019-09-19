@@ -1,0 +1,25 @@
+body{
+    background-image: url(bank1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logform{
+    
+    
+}
+.tab{
+    border:1px solid black;
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+}
+a{
+    margin-top: 80px;
+    color: white;
+}
+.btn td input{
+    position: absolute;
+    left: 80px;
+    right: 10px;
+}

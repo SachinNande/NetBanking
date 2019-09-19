@@ -1,0 +1,54 @@
+body{
+    background-image: url(bank1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.tab{
+    border:1px solid black;
+    padding: 100px 40px;
+    background-image: url(bank2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100px;
+}
+td{
+    color:rgb(24, 2, 2);
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+  button
+   {
+       color:white;
+       padding: 5px;
+       border-radius: 10px;
+       background-color: green;  
+       position: relative;
+       margin-top:50px;
+       margin-left: 150%; 
+   }
+   button input{
+       padding: 10px;
+   }
+   button:hover{
+    background-color: black;
+    color: white;
+   }
+   .footer{
+       bottom: 0%;
+       text-align:center;
+   }
+   hr{
+       border: 5px solid green;
+       margin-top: 80px;
+       fill: bisque;
+       size: 20px;
+       width: 100%;
+       
+   }
+  
